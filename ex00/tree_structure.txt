@@ -1,0 +1,363 @@
+.:
+total 24
+drwxr-xr-x 6 yaqeen yaqeen 4096 Oct  3 22:32 .
+drwxr-x--- 7 yaqeen yaqeen 4096 Oct  2 16:52 ..
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  3 22:32 ex00
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  3 22:32 ex01
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:16 ex02
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 12:06 ex03
+
+./ex00:
+total 8
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  3 22:32 .
+drwxr-xr-x 6 yaqeen yaqeen 4096 Oct  3 22:32 ..
+-rw-r--r-- 1 yaqeen yaqeen    0 Oct  3 22:32 tree_structure.txt
+
+./ex01:
+total 8
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  3 22:32 .
+drwxr-xr-x 6 yaqeen yaqeen 4096 Oct  3 22:32 ..
+
+./ex02:
+total 16
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:16 .
+drwxr-xr-x 6 yaqeen yaqeen 4096 Oct  3 22:32 ..
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:33 .git
+-rw-r--r-- 1 yaqeen yaqeen   37 Oct  1 11:23 hello.txt
+
+./ex02/.git:
+total 48
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:33 .
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:16 ..
+-rw-r--r-- 1 yaqeen yaqeen   36 Oct  1 11:24 COMMIT_EDITMSG
+-rw-r--r-- 1 yaqeen yaqeen   21 Oct  1 11:24 HEAD
+-rw-r--r-- 1 yaqeen yaqeen  282 Oct  1 11:33 config
+-rw-r--r-- 1 yaqeen yaqeen   73 Oct  1 11:15 description
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:15 hooks
+-rw-r--r-- 1 yaqeen yaqeen  137 Oct  1 11:24 index
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:15 info
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:24 logs
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:24 objects
+drwxr-xr-x 5 yaqeen yaqeen 4096 Oct  1 11:33 refs
+
+./ex02/.git/hooks:
+total 72
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:15 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:33 ..
+-rwxr-xr-x 1 yaqeen yaqeen  478 Oct  1 11:15 applypatch-msg.sample
+-rwxr-xr-x 1 yaqeen yaqeen  896 Oct  1 11:15 commit-msg.sample
+-rwxr-xr-x 1 yaqeen yaqeen 4726 Oct  1 11:15 fsmonitor-watchman.sample
+-rwxr-xr-x 1 yaqeen yaqeen  189 Oct  1 11:15 post-update.sample
+-rwxr-xr-x 1 yaqeen yaqeen  424 Oct  1 11:15 pre-applypatch.sample
+-rwxr-xr-x 1 yaqeen yaqeen 1649 Oct  1 11:15 pre-commit.sample
+-rwxr-xr-x 1 yaqeen yaqeen  416 Oct  1 11:15 pre-merge-commit.sample
+-rwxr-xr-x 1 yaqeen yaqeen 1374 Oct  1 11:15 pre-push.sample
+-rwxr-xr-x 1 yaqeen yaqeen 4898 Oct  1 11:15 pre-rebase.sample
+-rwxr-xr-x 1 yaqeen yaqeen  544 Oct  1 11:15 pre-receive.sample
+-rwxr-xr-x 1 yaqeen yaqeen 1492 Oct  1 11:15 prepare-commit-msg.sample
+-rwxr-xr-x 1 yaqeen yaqeen 2783 Oct  1 11:15 push-to-checkout.sample
+-rwxr-xr-x 1 yaqeen yaqeen 2308 Oct  1 11:15 sendemail-validate.sample
+-rwxr-xr-x 1 yaqeen yaqeen 3650 Oct  1 11:15 update.sample
+
+./ex02/.git/info:
+total 12
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:15 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:33 ..
+-rw-r--r-- 1 yaqeen yaqeen  240 Oct  1 11:15 exclude
+
+./ex02/.git/logs:
+total 16
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:24 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:33 ..
+-rw-r--r-- 1 yaqeen yaqeen  594 Oct  1 11:24 HEAD
+drwxr-xr-x 4 yaqeen yaqeen 4096 Oct  1 11:33 refs
+
+./ex02/.git/logs/refs:
+total 16
+drwxr-xr-x 4 yaqeen yaqeen 4096 Oct  1 11:33 .
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:24 ..
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:24 heads
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:33 remotes
+
+./ex02/.git/logs/refs/heads:
+total 12
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:24 .
+drwxr-xr-x 4 yaqeen yaqeen 4096 Oct  1 11:33 ..
+-rw-r--r-- 1 yaqeen yaqeen  397 Oct  1 11:24 main
+
+./ex02/.git/logs/refs/remotes:
+total 12
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:33 .
+drwxr-xr-x 4 yaqeen yaqeen 4096 Oct  1 11:33 ..
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:33 origin
+
+./ex02/.git/logs/refs/remotes/origin:
+total 12
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:33 .
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:33 ..
+-rw-r--r-- 1 yaqeen yaqeen  161 Oct  1 11:33 main
+
+./ex02/.git/objects:
+total 28
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:24 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:33 ..
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:16 96
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:16 cf
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:24 ed
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:15 info
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:15 pack
+
+./ex02/.git/objects/96:
+total 12
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:16 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:24 ..
+-r--r--r-- 1 yaqeen yaqeen   51 Oct  1 11:24 838094811a44c637f3713ce472f5f305e52c92
+
+./ex02/.git/objects/cf:
+total 12
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:16 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:24 ..
+-r--r--r-- 1 yaqeen yaqeen   54 Oct  1 11:24 cfb9ec65c42c287dfe9f3d5c29c0c50e72d23c
+
+./ex02/.git/objects/ed:
+total 12
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:24 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:24 ..
+-r--r--r-- 1 yaqeen yaqeen  149 Oct  1 11:24 5cf6f75f5ad4c1a1537c03592bc7ea2ead0197
+
+./ex02/.git/objects/info:
+total 8
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:15 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:24 ..
+
+./ex02/.git/objects/pack:
+total 8
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:15 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:24 ..
+
+./ex02/.git/refs:
+total 20
+drwxr-xr-x 5 yaqeen yaqeen 4096 Oct  1 11:33 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 11:33 ..
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:24 heads
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:33 remotes
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:15 tags
+
+./ex02/.git/refs/heads:
+total 12
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:24 .
+drwxr-xr-x 5 yaqeen yaqeen 4096 Oct  1 11:33 ..
+-rw-r--r-- 1 yaqeen yaqeen   41 Oct  1 11:24 main
+
+./ex02/.git/refs/remotes:
+total 12
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:33 .
+drwxr-xr-x 5 yaqeen yaqeen 4096 Oct  1 11:33 ..
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:33 origin
+
+./ex02/.git/refs/remotes/origin:
+total 12
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:33 .
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:33 ..
+-rw-r--r-- 1 yaqeen yaqeen   41 Oct  1 11:33 main
+
+./ex02/.git/refs/tags:
+total 8
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:15 .
+drwxr-xr-x 5 yaqeen yaqeen 4096 Oct  1 11:33 ..
+
+./ex03:
+total 28
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 12:06 .
+drwxr-xr-x 6 yaqeen yaqeen 4096 Oct  3 22:32 ..
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 12:07 .git
+-rw-r--r-- 1 yaqeen yaqeen 1143 Oct  1 11:57 README.md
+-rw-r--r-- 1 yaqeen yaqeen  165 Oct  1 11:58 git_workflow.txt
+-rw-r--r-- 1 yaqeen yaqeen   37 Oct  1 12:06 hello.txt
+-rw-r--r-- 1 yaqeen yaqeen  110 Oct  1 11:52 id_ed25519_pub.txt
+
+./ex03/.git:
+total 56
+drwxr-xr-x  7 yaqeen yaqeen 4096 Oct  1 12:07 .
+drwxr-xr-x  3 yaqeen yaqeen 4096 Oct  1 12:06 ..
+-rw-r--r--  1 yaqeen yaqeen   53 Oct  1 11:58 COMMIT_EDITMSG
+-rw-r--r--  1 yaqeen yaqeen  109 Oct  1 12:06 FETCH_HEAD
+-rw-r--r--  1 yaqeen yaqeen   21 Oct  1 11:58 HEAD
+-rw-r--r--  1 yaqeen yaqeen   41 Oct  1 12:06 ORIG_HEAD
+-rw-r--r--  1 yaqeen yaqeen  278 Oct  1 12:06 config
+-rw-r--r--  1 yaqeen yaqeen   73 Oct  1 11:54 description
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:54 hooks
+-rw-r--r--  1 yaqeen yaqeen  377 Oct  1 12:07 index
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:54 info
+drwxr-xr-x  3 yaqeen yaqeen 4096 Oct  1 11:58 logs
+drwxr-xr-x 13 yaqeen yaqeen 4096 Oct  1 12:06 objects
+drwxr-xr-x  5 yaqeen yaqeen 4096 Oct  1 12:05 refs
+
+./ex03/.git/hooks:
+total 72
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:54 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 12:07 ..
+-rwxr-xr-x 1 yaqeen yaqeen  478 Oct  1 11:54 applypatch-msg.sample
+-rwxr-xr-x 1 yaqeen yaqeen  896 Oct  1 11:54 commit-msg.sample
+-rwxr-xr-x 1 yaqeen yaqeen 4726 Oct  1 11:54 fsmonitor-watchman.sample
+-rwxr-xr-x 1 yaqeen yaqeen  189 Oct  1 11:54 post-update.sample
+-rwxr-xr-x 1 yaqeen yaqeen  424 Oct  1 11:54 pre-applypatch.sample
+-rwxr-xr-x 1 yaqeen yaqeen 1649 Oct  1 11:54 pre-commit.sample
+-rwxr-xr-x 1 yaqeen yaqeen  416 Oct  1 11:54 pre-merge-commit.sample
+-rwxr-xr-x 1 yaqeen yaqeen 1374 Oct  1 11:54 pre-push.sample
+-rwxr-xr-x 1 yaqeen yaqeen 4898 Oct  1 11:54 pre-rebase.sample
+-rwxr-xr-x 1 yaqeen yaqeen  544 Oct  1 11:54 pre-receive.sample
+-rwxr-xr-x 1 yaqeen yaqeen 1492 Oct  1 11:54 prepare-commit-msg.sample
+-rwxr-xr-x 1 yaqeen yaqeen 2783 Oct  1 11:54 push-to-checkout.sample
+-rwxr-xr-x 1 yaqeen yaqeen 2308 Oct  1 11:54 sendemail-validate.sample
+-rwxr-xr-x 1 yaqeen yaqeen 3650 Oct  1 11:54 update.sample
+
+./ex03/.git/info:
+total 12
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:54 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 12:07 ..
+-rw-r--r-- 1 yaqeen yaqeen  240 Oct  1 11:54 exclude
+
+./ex03/.git/logs:
+total 16
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:58 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 12:07 ..
+-rw-r--r-- 1 yaqeen yaqeen  853 Oct  1 12:06 HEAD
+drwxr-xr-x 4 yaqeen yaqeen 4096 Oct  1 12:05 refs
+
+./ex03/.git/logs/refs:
+total 16
+drwxr-xr-x 4 yaqeen yaqeen 4096 Oct  1 12:05 .
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 11:58 ..
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:58 heads
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 12:05 remotes
+
+./ex03/.git/logs/refs/heads:
+total 12
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:58 .
+drwxr-xr-x 4 yaqeen yaqeen 4096 Oct  1 12:05 ..
+-rw-r--r-- 1 yaqeen yaqeen  654 Oct  1 12:06 main
+
+./ex03/.git/logs/refs/remotes:
+total 12
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 12:05 .
+drwxr-xr-x 4 yaqeen yaqeen 4096 Oct  1 12:05 ..
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 12:05 origin
+
+./ex03/.git/logs/refs/remotes/origin:
+total 12
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 12:05 .
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 12:05 ..
+-rw-r--r-- 1 yaqeen yaqeen  366 Oct  1 12:06 main
+
+./ex03/.git/objects:
+total 52
+drwxr-xr-x 13 yaqeen yaqeen 4096 Oct  1 12:06 .
+drwxr-xr-x  7 yaqeen yaqeen 4096 Oct  1 12:07 ..
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:58 34
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:58 58
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:58 64
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 12:06 71
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:58 84
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 12:05 96
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 12:06 a7
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 12:05 cf
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 12:05 ed
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:54 info
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:54 pack
+
+./ex03/.git/objects/34:
+total 12
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:58 .
+drwxr-xr-x 13 yaqeen yaqeen 4096 Oct  1 12:06 ..
+-r--r--r--  1 yaqeen yaqeen  147 Oct  1 11:58 031ee8b3b916e1c9da63b85c102aa9f4059ba1
+
+./ex03/.git/objects/58:
+total 12
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:58 .
+drwxr-xr-x 13 yaqeen yaqeen 4096 Oct  1 12:06 ..
+-r--r--r--  1 yaqeen yaqeen  123 Oct  1 11:58 5d79ca2f9ee984708da2e2577209af71eb4da3
+
+./ex03/.git/objects/64:
+total 12
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:58 .
+drwxr-xr-x 13 yaqeen yaqeen 4096 Oct  1 12:06 ..
+-r--r--r--  1 yaqeen yaqeen  170 Oct  1 11:58 6f6c2f807b26aaed3605ad370790be34ef0635
+
+./ex03/.git/objects/71:
+total 12
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 12:06 .
+drwxr-xr-x 13 yaqeen yaqeen 4096 Oct  1 12:06 ..
+-r--r--r--  1 yaqeen yaqeen  164 Oct  1 12:06 57237a5179b8f6d49facb26f5c6f9f119a8616
+
+./ex03/.git/objects/84:
+total 12
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:58 .
+drwxr-xr-x 13 yaqeen yaqeen 4096 Oct  1 12:06 ..
+-r--r--r--  1 yaqeen yaqeen  134 Oct  1 11:58 cac281e3206a3f88711f036563713b4cc95f6f
+
+./ex03/.git/objects/96:
+total 16
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 12:05 .
+drwxr-xr-x 13 yaqeen yaqeen 4096 Oct  1 12:06 ..
+-r--r--r--  1 yaqeen yaqeen   51 Oct  1 12:05 838094811a44c637f3713ce472f5f305e52c92
+-r--r--r--  1 yaqeen yaqeen  681 Oct  1 11:58 faa2cdfba0673c766602b8750237e084140d5c
+
+./ex03/.git/objects/a7:
+total 12
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 12:06 .
+drwxr-xr-x 13 yaqeen yaqeen 4096 Oct  1 12:06 ..
+-r--r--r--  1 yaqeen yaqeen  232 Oct  1 12:06 3e39f205b52a4422cd56a66e2036722c597d5a
+
+./ex03/.git/objects/cf:
+total 12
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 12:05 .
+drwxr-xr-x 13 yaqeen yaqeen 4096 Oct  1 12:06 ..
+-r--r--r--  1 yaqeen yaqeen   54 Oct  1 12:05 cfb9ec65c42c287dfe9f3d5c29c0c50e72d23c
+
+./ex03/.git/objects/ed:
+total 12
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 12:05 .
+drwxr-xr-x 13 yaqeen yaqeen 4096 Oct  1 12:06 ..
+-r--r--r--  1 yaqeen yaqeen  149 Oct  1 12:05 5cf6f75f5ad4c1a1537c03592bc7ea2ead0197
+
+./ex03/.git/objects/info:
+total 8
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:54 .
+drwxr-xr-x 13 yaqeen yaqeen 4096 Oct  1 12:06 ..
+
+./ex03/.git/objects/pack:
+total 8
+drwxr-xr-x  2 yaqeen yaqeen 4096 Oct  1 11:54 .
+drwxr-xr-x 13 yaqeen yaqeen 4096 Oct  1 12:06 ..
+
+./ex03/.git/refs:
+total 20
+drwxr-xr-x 5 yaqeen yaqeen 4096 Oct  1 12:05 .
+drwxr-xr-x 7 yaqeen yaqeen 4096 Oct  1 12:07 ..
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 12:06 heads
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 12:05 remotes
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:54 tags
+
+./ex03/.git/refs/heads:
+total 12
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 12:06 .
+drwxr-xr-x 5 yaqeen yaqeen 4096 Oct  1 12:05 ..
+-rw-r--r-- 1 yaqeen yaqeen   41 Oct  1 12:06 main
+
+./ex03/.git/refs/remotes:
+total 12
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 12:05 .
+drwxr-xr-x 5 yaqeen yaqeen 4096 Oct  1 12:05 ..
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 12:06 origin
+
+./ex03/.git/refs/remotes/origin:
+total 12
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 12:06 .
+drwxr-xr-x 3 yaqeen yaqeen 4096 Oct  1 12:05 ..
+-rw-r--r-- 1 yaqeen yaqeen   41 Oct  1 12:06 main
+
+./ex03/.git/refs/tags:
+total 8
+drwxr-xr-x 2 yaqeen yaqeen 4096 Oct  1 11:54 .
+drwxr-xr-x 5 yaqeen yaqeen 4096 Oct  1 12:05 ..
